@@ -1,6 +1,17 @@
+package old;
+
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Title: LongestSubstringWithoutRepeatingCharacters
+ * Description:
+ * Copyright: Copyright (c) 2018
+ * Company: 9hjf
+ *
+ * @author zhaomenghui
+ * @version 2018/3/26
+ */
 public class LongestSubstringWithoutRepeatingCharacters {
 
     /*
